@@ -1,0 +1,25 @@
+* {
+  /* margin: 0px; */
+  padding: 0;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+.headline,
+.ukol {
+  color: white;
+  text-align: center;
+}
+
+html,
+body {
+  background-color: rgb(4, 136, 141);
+  @media (min-width: 1200px) {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+}

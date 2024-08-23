@@ -1,0 +1,29 @@
+{
+  "programatori": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "JuniorSenior": "Senior"
+    },
+    {
+      "id": 2,
+      "name": "Alice Johnson",
+      "JuniorSenior": "Senior"
+    },
+    {
+      "id": 3,
+      "name": "Bob Anderson",
+      "JuniorSenior": "Junior"
+    },
+    {
+      "id": 4,
+      "name": "Eva Martinez",
+      "JuniorSenior": "Senior"
+    },
+    {
+      "id": 5,
+      "name": "Chris Davis",
+      "JuniorSenior": "Senior"
+    }
+  ]
+}

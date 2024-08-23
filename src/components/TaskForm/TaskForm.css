@@ -1,0 +1,39 @@
+.task-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.legend {
+  text-align: center;
+  font-size: 12pt;
+  margin: 2px;
+}
+
+input {
+  outline: none;
+}
+
+.green {
+  background-color: green;
+  color: white;
+  margin: 5px 5px;
+  padding: 1px 10px;
+  border: none;
+}
+.red {
+  background-color: red;
+  color: white;
+  margin: 5px 5px;
+  padding: 1px 10px;
+  border: none;
+}
+
+.red:hover {
+  background-color: darkred;
+}
+.green:hover {
+  background-color: darkgreen;
+}
